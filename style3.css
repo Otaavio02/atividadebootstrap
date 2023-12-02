@@ -1,0 +1,13 @@
+body {
+   
+  
+      background-color: rgb(129, 127, 127);
+    }
+
+.contato{
+        text-align: center;
+        
+        border: 1px solid;
+    
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    } 
